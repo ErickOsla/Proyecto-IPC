@@ -1,4 +1,4 @@
-PROYECTO IPC
+#PROYECTO IPC
 Problema: Se realizan cotizaciones manualmente y es necesario que se realice un programa que pueda hacer mas eficiente este trabajo,
  el programa debe calcular los recargos que le corresponden a cada persona según su edad, estado civil (soltero o casado) y 
 según la cantidad de hijos que tenga el asegurado.
