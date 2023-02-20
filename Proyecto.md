@@ -1,9 +1,10 @@
-PROYECTO IPC
-Problema: Se realizan cotizaciones manualmente y es necesario que se realice un programa que pueda hacer mas eficiente este trabajo,
+## PROYECTO IPC
+### Problema: 
+Se realizan cotizaciones manualmente y es necesario que se realice un programa que pueda hacer mas eficiente este trabajo,
  el programa debe calcular los recargos que le corresponden a cada persona según su edad, estado civil (soltero o casado) y 
 según la cantidad de hijos que tenga el asegurado.
 
- Algoritmo:
+ ### Algoritmo:
 1.	Declarar el valor base de la cotización.
 2.	Declarar el valor de los recargos a aplicar según cada situación.
 3.	Ingresar el nombre del cliente
@@ -11,7 +12,7 @@ según la cantidad de hijos que tenga el asegurado.
 5.	Convertir la string a integer
 6.	Comprobar si es casado o soltero.
 7.	Si, en caso es casado ingresar edad esposo/a.
-8.	>>convertir la string a integer 
+8.	Convertir la string a integer 
 9.	Comprobar si tiene hijos
 10.	Si, tiene hijos, convertir string a integer.
 11.	Dependiendo de la edad agregar recargo multiplicando el valor base por el recargo correspondiente al rango de edad:
